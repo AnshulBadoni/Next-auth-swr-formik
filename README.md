@@ -3,8 +3,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 For authentication next-auth is used
 https://next-auth.js.org
 
-##username: admin
-##password: admin
+## Credentials
+username: admin
+password: admin
 
 for data fetching swr is used
 https://swr.vercel.app/
