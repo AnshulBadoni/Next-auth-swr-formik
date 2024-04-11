@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+For authentication next-auth is used
+https://next-auth.js.org
+
+##username: admin
+##password: admin
+
+for data fetching swr is used
+https://swr.vercel.app/
+
+for for formik is used
+https://formik.org/
+
 ## Getting Started
 
 First, run the development server:
